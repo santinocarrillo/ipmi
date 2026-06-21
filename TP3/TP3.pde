@@ -65,10 +65,10 @@ ellipse(x,y,35,35);
 }
 
 void mousePressed(){
-  cuadradoX = int(random(7));
-  cuadradoY = int(random(7));
+cuadradoX = int(random(7));
+cuadradoY = int(random(7));
 
-  rotar = true;
+rotar = true;
  
 }
 
